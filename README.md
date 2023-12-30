@@ -2,10 +2,10 @@
 
 ### And I Love Developing and Making Stuff
 
-- 🔭 Currently working at [Coditas](https://coditas.com) as a Senior Software Engineer
-- 🌱 Currently learning to be a better Developer (Current Level: 🐒)
-- 👯 Looking to collaborate with other content creators
-- 🥅 Forever Goals: Learn about new technologies.
+- 🔭 I am currently working as a Senior Software Engineer
+- 🌱 I am try to improve and develop myself further to become a better Developer
+- 👯 Looking to collaborate with other developers
+- 🥅 Forever Goals: Learn about new technologies and improve existing knowledge base
 - ⚡ Fun fact: I like making 2D and 3D Digital Art, Coding and Sleeping 😴😴😴
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
