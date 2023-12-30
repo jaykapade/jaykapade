@@ -2,7 +2,7 @@
 
 ### And I Love Developing and Making Stuff
 
-- 🔭 Currently working at [Coditas](https://coditas.com) as a Software Engineer
+- 🔭 Currently working at [Coditas](https://coditas.com) as a Senior Software Engineer
 - 🌱 Currently learning to be a better Developer (Current Level: 🐒)
 - 👯 Looking to collaborate with other content creators
 - 🥅 Forever Goals: Learn about new technologies.
@@ -21,80 +21,43 @@
 <br />
 
 ---
+### Languages Known:
+<p align="left">
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png" />
+<img alt="NextJS" width="26px" src="https://img.icons8.com/color/240/000000/nextjs.png" />
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<img alt="react" width="26px" src="https://vuejs.org/images/logo.png" />
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
+<img alt="Node.js" width="26px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg">
+<img alt="Express.js" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png">
+<img alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<p>
 
 ### Languages and Tools:
 <p align="left">
-[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="Node.js" width="26px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
 <img alt="Blender" width="26px" src="https://img.icons8.com/color/240/000000/blender-3d.png"/>
-</code>](https://www.blender.org/)
-[<code>
 <img alt="Adobe | Illustrator" width="26px" src="https://img.icons8.com/color/240/000000/adobe-illustrator--v1.png"/>
-</code>](https://www.adobe.com/in/products/illustrator.html)
-[<code>
 <img alt="Adobe | After Effects" width="26px" src="https://img.icons8.com/color/240/000000/adobe-after-effects--v1.png"/>
-</code>](https://www.adobe.com/in/products/aftereffects.html)
-[<code>
-<img alt="Springboot" width="26px" src="https://img.icons8.com/color/240/000000/spring-logo.png"/>
-</code>](https://spring.io/)
 </p>
 
 ### Operating Systems Used:
-
-[<code>
+<p align="left">
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</p>
 
 ---
-
-<div align="center">
-<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-</a>
+<div align="center" gap="20px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzdestructor&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />  &nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzdestructor&show_icons=true&theme=dracula&hide=stars,issues" />
 </div>
 <br/>
 <div align="center">
@@ -102,9 +65,8 @@ NOTE: Top languages does not indicate my skill level, it's a github metric of wh
 </div>
 
 ---
-
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jaykapade.jaykapade" alt="Visitors">                     
+<p align="center">                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jazzdestructor.jazzdestructor" alt="Visitors">                     
 </p>
 
 
