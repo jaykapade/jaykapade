@@ -56,8 +56,8 @@
 
 ---
 <div align="center" gap="20px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzdestructor&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />  &nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazzdestructor&show_icons=true&theme=dracula&hide=stars,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />  &nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapade&show_icons=true&theme=dracula&hide=stars,issues" />
 </div>
 <br/>
 <div align="center">
