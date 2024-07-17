@@ -32,7 +32,7 @@
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-<img alt="Node.js" width="26px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg">
+<img alt="Node.js" width="56px" height="auto" src="https://nodejs.org/static/logos/nodejsDark.svg">
 <img alt="Express.js" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png">
 <img alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -57,7 +57,7 @@
 ---
 <div align="center" gap="20px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />  &nbsp;&nbsp;&nbsp;
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapade&show_icons=true&theme=dracula&hide=stars,issues" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapade&show_icons=true&theme=dracula&hide=stars,issues" /> -->
 </div>
 <br/>
 <div align="center">
@@ -70,7 +70,9 @@ NOTE: Top languages does not indicate my skill level, it's a github metric of wh
 </p>
 
 
+
+
 [linkedin]: https://www.linkedin.com/in/jaykapade
-[gmail]: mailto:jazzdestructor@gmail.com
+[gmail]: mailto:jaykapade@gmail.com
 [instagram]: https://www.instagram.com/i_create_some_stuff
 [artstation]: jazzdestructor.artstation.com
