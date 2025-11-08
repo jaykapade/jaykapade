@@ -1,80 +1,104 @@
-## Hi there, I'm Jay Kapade
+## 👋 Hi there, I'm **Jay Kapade**
 
-### And I Love Developing and Making Stuff
+### 💻 I Love Building, Creating, and Making Things Come Alive
 
-- 🔭 I am currently working as a Senior Software Engineer
-- 🌱 I am try to improve and develop myself further to become a better Developer
-- 👯 Looking to collaborate with other developers
-- 🥅 Forever Goals: Learn about new technologies and improve existing knowledge base
-- ⚡ Fun fact: I like making 2D and 3D Digital Art, Coding and Sleeping 😴😴😴
-
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="Jay| LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Jay| LinkedIn" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
-
-<br/>
-
-### Check Some Stuff I made on:
-[<img align="left" alt="Jay | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Jay | Artstation" height="22px" src="./SocialLogo/Artstation.png" />][artstation]
-<br />
+- 🔭 Currently working as a **Senior Software Engineer**
+- 🌱 Always learning and improving to become a better developer
+- 👯 Open to **collaborating** on exciting projects
+- 🥅 **Forever Goal:** Keep exploring new technologies & refining my craft  
+- ⚡ **Fun fact:** I enjoy **2D & 3D Digital Art**, **Coding**, and sometimes... **Sleeping 😴**
 
 ---
-### Languages Known:
+
+### 🤝 Connect With Me  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+[<img align="left" alt="LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
+
+<br /><br />
+
+### 🎨 Check Out My Creative Work  
+[<img align="left" alt="Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Artstation" height="22px" src="./SocialLogo/Artstation.png" />][artstation]
+<br /><br />
+
+---
+
+## 🧠 Tech Stack
+
+### 🖥️ Languages & Frameworks
 <p align="left">
 <img alt="Javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png" />
 <img alt="Typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png" />
-<img alt="NextJS" width="26px" src="https://img.icons8.com/color/240/000000/nextjs.png" />
-  <img alt="React" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-<img alt="Golang" width="26px" src="https://img.icons8.com/color/240/000000/golang.png" />  
-<img alt="vue" width="26px" src="https://vuejs.org/images/logo.png" />
-<img alt="HTML5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-<img alt="CSS3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-<img alt="SASS" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-<img alt="Node.js" width="56px" height="auto" src="https://nodejs.org/static/logos/nodejsDark.svg">
-<img alt="Express.js" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png">
-<img alt="PostgresSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img alt="Mongodb" width="26px" src="https://img.icons8.com/color/240/000000/mongo-db.png">
-<p>
-
-### Languages and Tools:
-<p align="left">
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-<img alt="Docker" width="26px" src="https://img.icons8.com/color/240/000000/docker.png">
-<img alt="Blender" width="26px" src="https://img.icons8.com/color/240/000000/blender-3d.png"/>
-<img alt="Adobe | Illustrator" width="26px" src="https://img.icons8.com/color/240/000000/adobe-illustrator--v1.png"/>
-<img alt="Adobe | After Effects" width="26px" src="https://img.icons8.com/color/240/000000/adobe-after-effects--v1.png"/>
-</p>
-
-### Operating Systems Used:
-<p align="left">
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+<img alt="React" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<img alt="Next.js" width="26px" src="https://img.icons8.com/color/240/000000/nextjs.png" />
+<img alt="Vue.js" width="26px" src="https://vuejs.org/images/logo.png" />
+<img alt="Golang" width="26px" src="https://img.icons8.com/color/240/000000/golang.png" />
+<img alt="Node.js" width="56px" src="https://nodejs.org/static/logos/nodejsDark.svg" />
+<img alt="Express.js" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
+<img alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/mongo-db.png" />
+<img alt="HTML5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png" />
+<img alt="CSS3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png" />
+<img alt="SASS" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />
 </p>
 
 ---
-<div align="center" gap="20px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />  &nbsp;&nbsp;&nbsp;
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykapade&show_icons=true&theme=dracula&hide=stars,issues" /> -->
-</div>
-<br/>
+
+### 🧰 Tools & Technologies
+<p align="left">
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png" />
+<img alt="Docker" width="26px" src="https://img.icons8.com/color/240/000000/docker.png" />
+<img alt="Redis" width="26px" src="https://img.icons8.com/color/240/000000/redis.png" />
+<img alt="AWS" width="26px" src="https://img.icons8.com/color/240/000000/amazon-web-services.png" />
+<img alt="FastAPI" width="26px" src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" />
+<img alt="OpenAI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<img alt="TailwindCSS" width="26px" src="https://img.icons8.com/color/240/000000/tailwindcss.png" />
+<img alt="Redux" width="26px" src="https://img.icons8.com/color/240/000000/redux.png" />
+<img alt="GraphQL" width="26px" src="https://img.icons8.com/color/240/000000/graphql.png" />
+<img alt="Kubernetes" width="26px" src="https://img.icons8.com/color/240/000000/kubernetes.png" />
+<img alt="VS Code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="IntelliJ IDEA" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="Blender" width="26px" src="https://img.icons8.com/color/240/000000/blender-3d.png" />
+<img alt="Adobe Illustrator" width="26px" src="https://img.icons8.com/color/240/000000/adobe-illustrator--v1.png" />
+<img alt="Adobe After Effects" width="26px" src="https://img.icons8.com/color/240/000000/adobe-after-effects--v1.png" />
+</p>
+
+---
+
+### 🧩 Current Stack and Expertise
+- 💡 Full-Stack Web Development (React, Next.js, Node.js, Go)
+- ☁️ Cloud & DevOps (Docker, AWS, CI/CD, Redis)
+- 🤖 AI Integration (LangChain, OpenAI APIs, FastAPI)
+- ⚙️ Scalable Architecture & API Design (GraphQL, REST, gRPC)
+
+---
+
+### 💻 Operating Systems
+<p align="left">
+<img alt="Windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png" />
+<img alt="Linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png" />
+</p>
+
+---
+
 <div align="center">
-NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+  <br />
+  <sub>📊 *Top languages reflect GitHub repo code, not proficiency level*</sub>
 </div>
 
 ---
-<p align="center">                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jazzdestructor.jazzdestructor" alt="Visitors">                     
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaykapade.jaykapade" alt="Visitor Badge" />
 </p>
 
+---
 
-
-
-[linkedin]: https://www.linkedin.com/in/jaykapade
-[gmail]: mailto:jaykapade@gmail.com
-[instagram]: https://www.instagram.com/i_create_some_stuff
-[artstation]: jazzdestructor.artstation.com
+[linkedin]: https://www.linkedin.com/in/jaykapade  
+[gmail]: mailto:jaykapade@gmail.com  
+[instagram]: https://www.instagram.com/i_create_some_stuff  
+[artstation]: https://jazzdestructor.artstation.com  
