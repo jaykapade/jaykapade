@@ -29,23 +29,40 @@
 ## 🧠 Tech Stack
 
 ### 🖥️ Languages & Frameworks
+
 <p align="left">
-<img alt="Javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png" />
-<img alt="Typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png" />
-<img alt="React" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-<img alt="Next.js" width="26px" src="https://img.icons8.com/color/240/000000/nextjs.png" />
-<img alt="Vue.js" width="26px" src="https://vuejs.org/images/logo.png" />
-<img alt="Golang" width="26px" src="https://img.icons8.com/color/240/000000/golang.png" />
-<img alt="Node.js" width="56px" src="https://nodejs.org/static/logos/nodejsDark.svg" />
-<img alt="Express.js" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
-<img alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/mongo-db.png" />
-<img alt="HTML5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png" />
-<img alt="CSS3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png" />
-<img alt="SASS" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />
+  <img alt="Javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+  <img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png" />
+  <img alt="Typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png" />
+  <img alt="React" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+  <img alt="Next.js" width="26px" src="https://img.icons8.com/color/240/000000/nextjs.png" />
+  <img alt="Vue.js" width="26px" src="https://vuejs.org/images/logo.png" />
+  <img alt="Golang" width="26px" src="https://img.icons8.com/color/240/000000/golang.png" />
+  <img alt="Node.js" width="56px" src="https://nodejs.org/static/logos/nodejsDark.svg" />
+  <img alt="Express.js" width="26px" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" />
+  <img alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+  <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+  <img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/mongo-db.png" />
+  <img alt="HTML5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png" />
+  <img alt="CSS3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png" />
+  <img alt="SASS" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />
 </p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
