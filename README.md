@@ -86,11 +86,10 @@
 
 ---
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-  <br />
-  <sub>📊 *Top languages reflect GitHub repo code, not proficiency level*</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=jaykapade&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+</p>
+<p align="center"><sub>Top languages reflect GitHub repo code, not proficiency level</sub></p>
 
 ---
 
