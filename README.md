@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm **Jay Kapade**
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻;Blender+Artist+🎨;AI+%26+LLM+Explorer+🤖;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code&width=380&height=30)
+
 ### 💻 I Love Building, Creating, and Making Things Come Alive
 
 - 🔭 Currently working as a **Senior Software Engineer**
@@ -69,7 +71,7 @@
 ---
 
 ### 🧩 Current Stack and Expertise
-- 💡 Full-Stack Web Development (React, Next.js, Node.js, Go)
+- 💡 Full-Stack Web Development (React, Next.js, Node.js, Go, Python)
 - ☁️ Cloud & DevOps (Docker, AWS, CI/CD, Redis)
 - 🤖 AI Integration (LangChain, OpenAI APIs, FastAPI)
 - ⚙️ Scalable Architecture & API Design (GraphQL, REST, gRPC)
